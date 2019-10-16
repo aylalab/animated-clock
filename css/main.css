@@ -38,7 +38,7 @@ html {
   }
 
   100% {
-    transform: rotate360deg);
+    transform: rotate(360deg);
   }
 
 }
